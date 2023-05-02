@@ -20,6 +20,7 @@ Passive Crypto bot, manage your portfolio from the command line and autonomously
   - Generate 1mo, Quarterly, SemiAnnual, Yearly Reports
 - Manual Trading
 - Auto Trading
+- Mock Trading (For Testing and Practice)
 
 ## Additional Functionality
 - AI Recommendations (ChatGPT)
