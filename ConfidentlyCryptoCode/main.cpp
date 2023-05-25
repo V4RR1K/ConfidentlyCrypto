@@ -1,8 +1,9 @@
 #include <iostream>
+#include "commandline_interface.h"
 
 using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    run();
     return 0;
 }
