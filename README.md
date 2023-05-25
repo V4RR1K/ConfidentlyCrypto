@@ -5,12 +5,10 @@ Passive Crypto bot, manage your portfolio from the command line and autonomously
 - Gregory Lynskey
 - Mackenzie Wade
 
-
 ## Tech Stack
 - c++
 - postgresql
 - R
-
 
 ## Base Functionality
 - Create Account
