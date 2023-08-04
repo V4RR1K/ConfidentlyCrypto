@@ -1,15 +1,4 @@
 # ninja log v5
-3	39	7067534042482026	CMakeFiles/ConfidentlyCryptoCode.dir/commandline_interface.cpp.obj	ea78a74c5d19d64d
-0	213	7067534044232024	CMakeFiles/ConfidentlyCryptoCode.dir/main.cpp.obj	531210aa5b117daf
-213	287	7067534044952028	ConfidentlyCryptoCode.exe	25dff567d0f1d45
-2	193	7067550583460827	CMakeFiles/ConfidentlyCryptoCode.dir/main.cpp.obj	531210aa5b117daf
-2	187	7067550664781859	CMakeFiles/ConfidentlyCryptoCode.dir/commandline_interface.cpp.obj	ea78a74c5d19d64d
-187	244	7067550665333314	ConfidentlyCryptoCode.exe	25dff567d0f1d45
-2	196	7067555294983448	CMakeFiles/ConfidentlyCryptoCode.dir/commandline_interface.cpp.obj	ea78a74c5d19d64d
-196	252	7067555295516327	ConfidentlyCryptoCode.exe	25dff567d0f1d45
-2	192	7067558664913791	CMakeFiles/ConfidentlyCryptoCode.dir/commandline_interface.cpp.obj	ea78a74c5d19d64d
-193	251	7067558665455738	ConfidentlyCryptoCode.exe	25dff567d0f1d45
-2	223	7067562582319595	CMakeFiles/ConfidentlyCryptoCode.dir/commandline_interface.cpp.obj	ea78a74c5d19d64d
-223	285	7067562582931276	ConfidentlyCryptoCode.exe	25dff567d0f1d45
-2	193	7067562855911140	CMakeFiles/ConfidentlyCryptoCode.dir/commandline_interface.cpp.obj	ea78a74c5d19d64d
-193	251	7067562856456701	ConfidentlyCryptoCode.exe	25dff567d0f1d45
+7	470	7128218629700700	CMakeFiles/ConfidentlyCryptoCode.dir/commandline_interface.cpp.obj	5f397cba575c23fb
+1	459	7128218629600963	CMakeFiles/ConfidentlyCryptoCode.dir/main.cpp.obj	67e034805d24791
+470	627	7128218631226614	ConfidentlyCryptoCode.exe	58848a2d06509080

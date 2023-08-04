@@ -1,0 +1,10 @@
+# ninja log v5
+5	26	0	C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	917b4cd279c23aa0
+1	809	7128238504229011	untitled_autogen/timestamp	6fdd5d2b95d5b8c3
+1	809	7128238504229011	C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	6fdd5d2b95d5b8c3
+810	2525	7128238523210398	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	802d52359dd86580
+1	809	7128238504229011	untitled_autogen/mocs_compilation.cpp	6fdd5d2b95d5b8c3
+1	809	7128238504229011	C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	6fdd5d2b95d5b8c3
+814	2512	7128238523070746	CMakeFiles/untitled.dir/main.cpp.obj	3f48dd03e02b6ae1
+817	2565	7128238523609317	CMakeFiles/untitled.dir/mainwindow.cpp.obj	c5fe3e2a0456620f
+2565	2795	7128238525859694	untitled.exe	f1aeacd47b82116a

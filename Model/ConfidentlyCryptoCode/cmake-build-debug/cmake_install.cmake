@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Greg/Netrunning/Large Projects/ConfidentlyCrypto/ConfidentlyCryptoCode
+# Install script for directory: C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/Model/ConfidentlyCryptoCode
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Greg/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/kinki/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9225.21/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Greg/Netrunning/Large Projects/ConfidentlyCrypto/ConfidentlyCryptoCode/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/Model/ConfidentlyCryptoCode/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

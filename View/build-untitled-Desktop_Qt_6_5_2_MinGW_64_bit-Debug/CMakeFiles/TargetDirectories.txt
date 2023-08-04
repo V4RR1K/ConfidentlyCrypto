@@ -1,0 +1,9 @@
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/untitled.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+C:/Users/kinki/Documents/PersonalProj/ConfidentlyCrypto/View/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/untitled_autogen.dir
